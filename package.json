@@ -1,0 +1,30 @@
+{
+  "name": "gulp_tutorial",
+  "version": "1.0.0",
+  "description": "This is the gulp tutorial from the official gulp.js website!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patel-Jenu-1991/gulp_tutorial.git"
+  },
+  "keywords": [
+    "Gulp",
+    "Tutorial",
+    "Official",
+    "Gulp",
+    "Tutorial",
+    "gulpjs.com/docs"
+  ],
+  "author": "Jaineshkumar Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patel-Jenu-1991/gulp_tutorial/issues"
+  },
+  "homepage": "https://github.com/Patel-Jenu-1991/gulp_tutorial#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
