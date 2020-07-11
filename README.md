@@ -75,6 +75,25 @@ const defaultTask = (cb) => {
 exports.default = defaultTask
 ```
 
+**Test it**
+
+Run the gulp command in your project directory:
+
+`$ gulp`
+
+To run multiple tasks, you can use `$ gulp <task> <othertask>`.
+
+**Result**
+
+The default task will run and do nothing.
+
+```bash
+$ gulp
+[20:30:26] Using gulpfile ~/Documents/workbench/gulp_tutorial/gulpfile.js
+[20:30:26] Starting 'default'...
+[20:30:26] Finished 'default' after 19 ms
+```
+
 ---
 
 ### JavaScript and Gulpfiles
